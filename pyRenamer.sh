@@ -5,6 +5,6 @@ do
     then
         mv $file long_$file
     else
-        mv $file shoft_$file
+        mv $file short_$file
     fi
 done
